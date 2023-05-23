@@ -1,4 +1,4 @@
-package starter;
+package com.bdd.traintimetables;
 
 import io.cucumber.junit.CucumberOptions;
 import net.serenitybdd.cucumber.CucumberWithSerenity;
